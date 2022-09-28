@@ -6,7 +6,7 @@
 - :round_pushpin: Based in Baltimore, MD
 
 ### Projects I've worked on
-[GAINZ](https://github.com/Hidden-Mist-2205/GAINZ) - Workout and buddy finding app where I focused on the back-end at the Find a Buddy page.
+[GAINZ](https://github.com/Hidden-Mist-2205/GAINZ) - Workout and buddy finding app where I focused on the back-end and the Find a Buddy page.
 
 [Fermium API](https://github.com/Fermium-SDC/Product-API) - Developed and scaled the product information API for an eCommerce website.
 
